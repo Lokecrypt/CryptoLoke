@@ -1,7 +1,8 @@
-colors = ("red","yellow")
+a = 1
 
-i = 0
-while i < len(colors):
-    print "When was %d, my favorite color was %s" % (i,colors[i])
-    i = i + 1
+print (a)
 
+b = 2
+
+
+print (a+b)
